@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: mongo-secreate
+type: Opaque
+data:
+  username: ZGV2ZGI=
+  password: ZGV2ZGJAMTIz
